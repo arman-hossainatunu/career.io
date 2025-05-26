@@ -7,7 +7,7 @@ Designed to showcase your skills, projects, and contact information — inspired
 
 ## 🌐 Live Demo
 
-🔗 [View Website](https://yourusername.github.io/career-portfolio/)
+🔗 [View Website](https://arman-hossainatunu.github.io/career.io/)
 
 ---
 
